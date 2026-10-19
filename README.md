@@ -6,8 +6,6 @@ about the code in natural language using Google Gemini.
 
 ![Illustrative CodeGraph RAG workflow: Python source is parsed into a Memgraph knowledge graph, then natural-language questions retrieve relevant code.](assets/codegraph-rag-workflow.gif)
 
-*Conceptual illustration; this is not a live capture or a real query result.*
-
 ## What it does
 
 - Parses Python files with the standard-library AST parser.
