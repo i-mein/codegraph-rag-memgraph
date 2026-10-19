@@ -1,0 +1,14 @@
+[project]
+name = "graph-code"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "loguru>=0.7.3",
+    "pydantic-ai-slim[google]>=0.2.18",
+    "pymgclient>=1.4.0",
+    "python-dotenv>=1.1.0",
+    "toml>=0.10.2",
+    "gitpython>=3.1.44",
+]
